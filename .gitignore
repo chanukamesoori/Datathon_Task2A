@@ -1,0 +1,14 @@
+data/
+outputs/
+models/
+.venv/
+.jupyter/
+.ipython/
+__pycache__/
+.ipynb_checkpoints/
+*.pdf
+*.joblib
+# Executed notebooks embed competition-derived data. Keep them private.
+notebooks/*.ipynb
+
+.github-export/
